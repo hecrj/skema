@@ -1,0 +1,9 @@
+[package]
+name = "skema"
+version = "0.1.0-dev"
+edition = "2024"
+description = "A JSON Schema implementation"
+
+[dependencies]
+serde.version = "1"
+serde.features = ["derive"]
