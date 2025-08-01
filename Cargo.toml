@@ -3,6 +3,8 @@ name = "skema"
 version = "0.1.0-dev"
 edition = "2024"
 description = "A JSON Schema implementation"
+license = "MIT"
+repository = "https://github.com/hecrj/skema"
 
 [dependencies]
 serde.version = "1"
