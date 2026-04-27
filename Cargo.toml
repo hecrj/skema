@@ -1,6 +1,6 @@
 [package]
 name = "skema"
-version = "0.1.0-dev"
+version = "0.1.0"
 edition = "2024"
 description = "A JSON Schema implementation"
 license = "MIT"
